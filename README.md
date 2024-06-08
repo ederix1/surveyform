@@ -46,14 +46,13 @@ To get a local copy up and running follow these simple example steps.
 👤 **Ederix Jose Herrera Peña**
 
 - GitHub: [@ederix1](https://github.com/ederix1)
-- LinkedIn: [LinkedIn]
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/ederix1/surveyform/issues/).
 
 ## Show your support
 
